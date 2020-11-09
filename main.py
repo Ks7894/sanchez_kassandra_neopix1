@@ -33,5 +33,3 @@ while True:
     pause(300)
     light.clear()
     light.set_pixel_color(9, light.rgb(240,31,31))
-
-
